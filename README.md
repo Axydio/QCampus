@@ -138,10 +138,8 @@ Nager.Date provides public holiday information for supported countries through a
 Download the project ZIP file and extract it to your computer, or clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/Axydio/QCampus.git
 ```
-
-Replace `YOUR_REPOSITORY_URL` with the actual repository URL.
 
 ### 2. Open the Project in Android Studio
 
